@@ -1,0 +1,2 @@
+class ork:
+    pass
